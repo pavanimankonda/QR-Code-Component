@@ -8,7 +8,7 @@ This is my solution to the [QR Code Component challenge on Frontend Mentor](http
 
 ## 🔗 Links
 
-- [Live Site URL](#https://pavanimankonda.github.io/QR-Code-Component/) 
+- [Live Site URL](https://pavanimankonda.github.io/QR-Code-Component/)
 
 ## 🛠️ Built With
 
